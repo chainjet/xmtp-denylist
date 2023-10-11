@@ -18,5 +18,6 @@ usdcbalance.com
 usdcscan.com
 usdcspot.com
 usdcwall.com
+wsmearn.com
 wsmgem.com
 wsmget.com
