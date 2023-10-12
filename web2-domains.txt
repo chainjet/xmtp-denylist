@@ -15,6 +15,7 @@ updates-cb.com
 usdc.is
 usdcase.com
 usdcbalance.com
+usdcold.com
 usdcscan.com
 usdcspot.com
 usdcwall.com
