@@ -1,5 +1,15 @@
+baselido.com
 basepunk.org
+baseusdt.com
+beacons.ai/shibatoken
+beacons.ai/tokenshib
+bit.ly/shibaward
+bridgetobase.xyz
 cb-protect.com
+cb-voucher.com
+circie.org
+claim.lidost.com
+lidobase.com
 lidoblock.com
 lidogem.com
 lidoget.com
@@ -9,7 +19,9 @@ punkonbase.com
 shibariumbase.com
 stablebounty.com
 stableusdt.com
+tether.is
 tetherdrop.com
+tethervoucher.com
 tetherweekly.com
 updates-cb.com
 usdc.is
@@ -18,7 +30,10 @@ usdcbalance.com
 usdcold.com
 usdcscan.com
 usdcspot.com
+usdcvoucher.com
 usdcwall.com
+usdt.is
+usdtvoucher.com
 wsmearn.com
 wsmgem.com
 wsmget.com
