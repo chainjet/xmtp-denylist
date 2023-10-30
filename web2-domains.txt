@@ -28,6 +28,7 @@ usdc.is
 usdcase.com
 usdcbalance.com
 usdcold.com
+usdcollect.com
 usdcscan.com
 usdcspot.com
 usdcvoucher.com
